@@ -2,10 +2,16 @@
 
 ## Lexical Analysis  
 
+### Introduction  
+
 1. 程式的功能要正確的切出每一個Token。
 2. 並且將每一個Token對應到正確的Table裡的位置。  
 3. Table1~4會是保留字。  
 4. Table5~7必須要使用Hash Function來做放入，遇到碰撞便往下一個位置。  
+
+### Files  
+
+1. 
 
 ## Cross Assembler
 
