@@ -31,6 +31,6 @@
 
 ### Files 
 
-1. 
-2. SIC/XE_input.txt, SIC_input.txt為測試檔案
-3. SIC/XE_output.txt, SIC_output.txt為輸出檔案
+1. SIC_XE.py 為完整程式碼
+2. SIC/XE_input.txt, SIC_input2.txt 為測試檔案
+3. SIC/XE_output.txt, SIC_output2.txt 為輸出檔案
