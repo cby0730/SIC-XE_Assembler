@@ -22,7 +22,15 @@
 
 ## Cross Assembler
 
+### Introduction
+
 1. 主要的目的是將程式碼翻譯成機器碼（Object Code）。  
 2. 計算每一行指令的所在位置。  
 3. 同時也會做文法上的檢測（Syntax Analysis），檢測出程式碼的錯誤。  
 4. 最後將結果輸出在螢幕中和寫入檔案中。  
+
+### Files 
+
+1. 
+2. SIC/XE_input.txt, SIC_input.txt為測試檔案
+3. SIC/XE_output.txt, SIC_output.txt為輸出檔案
