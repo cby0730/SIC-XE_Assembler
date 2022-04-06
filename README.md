@@ -1,5 +1,10 @@
 # SIC-XE_Assembler
 
+## Foreward  
+
+經過一個暑假從Coursera學簡單的Python課程，第一次使用Python寫比較大的程式，小試身手。  
+如有寫不好的地方，還請見諒。
+
 ## Lexical Analysis  
 
 ### Introduction  
@@ -11,7 +16,9 @@
 
 ### Files  
 
-1. 
+1. token.py 為完整程式碼
+2. SIC_input.txt 為測試檔案
+3. output.txt 為輸出檔案
 
 ## Cross Assembler
 
